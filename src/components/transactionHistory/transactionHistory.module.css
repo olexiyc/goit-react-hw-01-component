@@ -1,0 +1,8 @@
+.transactionhistory{
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    background-color: aquamarine;
+    border: 5px solid;
+    box-sizing:content-box;
+}

@@ -1,0 +1,39 @@
+
+
+
+.profile{
+        width: 300px;
+        border: 5px solid;
+        margin: 10px 10px;
+        padding: 10px;
+        background-color: aquamarine;
+
+
+}
+
+
+.avatar{
+    width: 100px;
+    height: 100px;
+
+}
+
+.name {
+    text-align: center;
+    color: black;
+   
+
+}
+
+.tag{
+    text-align: center;
+}
+
+.location{
+    text-align: center;
+}
+
+.stats{
+    text-align: center;
+    padding: 0;
+}
